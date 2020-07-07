@@ -59,7 +59,7 @@ jsproxy_config({
   /**
    * 加速节点
    */
-  node_acc: 'cfworker',
+  node_acc: 'https://quiet-salad-b0d1.steem.workers.dev/',
 
   /**
    * 静态资源 CDN 地址
